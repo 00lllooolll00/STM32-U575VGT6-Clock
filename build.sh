@@ -1,0 +1,3 @@
+cmake -DCMAKE_TOOLCHAIN_FILE=cmake/gcc-arm-none-eabi.cmake -B build -G Ninja
+
+ninja -C build

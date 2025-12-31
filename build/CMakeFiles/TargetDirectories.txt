@@ -1,0 +1,7 @@
+/home/n1netynine99/WorkSpace/Embedded_Chips/STM32/Project/U5_Clock/build/CMakeFiles/U5_Clock.dir
+/home/n1netynine99/WorkSpace/Embedded_Chips/STM32/Project/U5_Clock/build/CMakeFiles/edit_cache.dir
+/home/n1netynine99/WorkSpace/Embedded_Chips/STM32/Project/U5_Clock/build/CMakeFiles/rebuild_cache.dir
+/home/n1netynine99/WorkSpace/Embedded_Chips/STM32/Project/U5_Clock/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/n1netynine99/WorkSpace/Embedded_Chips/STM32/Project/U5_Clock/build/cmake/stm32cubemx/CMakeFiles/RTOS2.dir
+/home/n1netynine99/WorkSpace/Embedded_Chips/STM32/Project/U5_Clock/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/n1netynine99/WorkSpace/Embedded_Chips/STM32/Project/U5_Clock/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
